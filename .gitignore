@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.env
+uploads/
+*.DS_Store
+.vscode/
+.idea/
+
 # Distribution / packaging
 .Python
 build/
